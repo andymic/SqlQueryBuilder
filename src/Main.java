@@ -30,8 +30,8 @@ public class Main {
 		obj.run();
 	}
 
-	// Method avlailable in case user want to connect to a database and execute
-	// query
+	// Method available in case user want to connect to a database and execute query
+	@SuppressWarnings("unused")
 	private Connection connectToDb(String server, String db, String username,
 			String password) {
 		try {
