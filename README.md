@@ -12,3 +12,5 @@ Directions:
 
 4- Provide the query to build. Ex: select ?, ? from ? where ? = ?
 
+**Make sure to download sqljdbc4.jar and update your classpath. Higher versions seems to work as well.
+
